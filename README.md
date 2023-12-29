@@ -1,4 +1,10 @@
-### Hi there 👋
+oooo    oooo  o8o                                                        .    o8o  oooo                  
+`888   .8P'   `"'                                                      .o8    `"'  `888                  
+ 888  d8'    oooo  ooo. .oo.    .ooooo.  ooo. .oo.  .oo.    .oooo.   .o888oo oooo   888  oooo   .oooo.   
+ 88888[      `888  `888P"Y88b  d88' `88b `888P"Y88bP"Y88b  `P  )88b    888   `888   888 .8P'   `P  )88b  
+ 888`88b.     888   888   888  888ooo888  888   888   888   .oP"888    888    888   888888.     .oP"888  
+ 888  `88b.   888   888   888  888    .o  888   888   888  d8(  888    888 .  888   888 `88b.  d8(  888  
+o888o  o888o o888o o888o o888o `Y8bod8P' o888o o888o o888o `Y888""8o   "888" o888o o888o o888o `Y888""8o
 
 <!--
 **kinematika/kinematika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

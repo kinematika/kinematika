@@ -1,4 +1,4 @@
-```
+```bash
 oooo         o8o                                                        .    o8o  oooo                  
 `888         `"'                                                      .o8    `"'  `888                  
  888  oooo  oooo  ooo. .oo.    .ooooo.  ooo. .oo.  .oo.    .oooo.   .o888oo oooo   888  oooo   .oooo.   
@@ -7,6 +7,8 @@ oooo         o8o                                                        .    o8o
  888 `88b.   888   888   888  888    .o  888   888   888  d8(  888    888 .  888   888 `88b.  d8(  888  
 o888o o888o o888o o888o o888o `Y8bod8P' o888o o888o o888o `Y888""8o   "888" o888o o888o o888o `Y888""8o
 ```
+Hello 👋
+This is my personal git. This is where I keep my playbooks and useful notes that came in handy in my work.
 <!--
 **kinematika/kinematika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -13,13 +13,13 @@ This is my personal git. This is where I keep my playbooks and useful notes that
 Привет 👋
 Это мой личный гит. Тут я храню свои плейбуки и полезные заметки, которые пригодились в работе.
 
+```bash
 It usually boils down to these three things:
 
-    #1) Respect the privacy of others.
-    #2) Think before you type.
-    #3) With great power comes great responsibility.
-
-root's password:
+    1) Respect the privacy of others.
+    2) Think before you type.
+    3) With great power comes great responsibility.
+```
 <!--
 **kinematika/kinematika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
